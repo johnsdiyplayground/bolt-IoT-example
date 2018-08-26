@@ -1,4 +1,4 @@
-setChartTitle('Johns DIY Playground')
+setChartTitle('John DIY Playground')
 var lineGraph1 = new boltGraph();
 lineGraph1.setChartType("lineGraph");
 lineGraph1.setAxisName('Time','Temp F');
